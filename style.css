@@ -194,3 +194,50 @@ font-size:22px;
 
 
 }
+.description{
+
+max-width:800px;
+
+margin:auto;
+
+line-height:1.6;
+
+font-size:18px;
+
+}
+
+
+
+.content h1{
+
+font-size:60px;
+
+margin-bottom:10px;
+
+}
+
+
+
+.content h2{
+
+font-size:30px;
+
+color:#00aaff;
+
+}
+
+
+
+.play{
+
+transition:0.3s;
+
+}
+
+
+
+.play:hover{
+
+transform:scale(1.1);
+
+}
