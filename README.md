@@ -1,2 +1,2 @@
-# Chaos-City
+# Chaos City
 Chaos City official site web
